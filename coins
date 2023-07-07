@@ -132,6 +132,25 @@
     "derivation_path": "m/44'/966'"
   },
   {
+    "coin": "FZ45T-PLG20",
+    "name": "fz45t_plg20",
+    "fname": "FZ45 Test",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 137,
+    "decimals": 18,
+    "avg_blocktime": 1.8,
+    "required_confirmations": 20,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "MATIC",
+        "contract_address": "0x88d99C85138Cf83F46d7f17528FCfEE740e414a9"
+      }
+    },
+    "derivation_path": "m/44'/966'"
+  },
+  {
     "coin": "PGX-PLG20",
     "name": "pegaxy_stone",
     "fname": "Pegaxy Stone",
